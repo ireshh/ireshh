@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hello, I am Iresh</h1>
-<h3 align="center">A passionate computer and data science student from the University of Helsinki.</h3>
+<h3 align="center">A passionate computer and data science student from Aalto University.</h3>
   
 - 🔭 I’m currently working on ITC
 
